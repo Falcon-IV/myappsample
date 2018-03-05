@@ -4,8 +4,9 @@ MY app
 With a sub-Heading
 ---
 
-***New Paragraph***
-App sample just *beginning* to learn git and github.
+***New Paragraph***  
+App sample just *beginning* to learn git and github.  
+This is set with bold and italic sections.
 
 ---
 
@@ -31,3 +32,19 @@ print('processor:', platform.processor())
 
 input("\n\nPress ENTER to quit")
 ```
+
+---
+
+For Bullet Points:
+
+* First Item
+* second Item
+* Third Item
+
+---
+
+For Numbered List:
+
+1. First Item
+2. Second Item
+3. Third Item
