@@ -9,7 +9,7 @@ This is set with bold and italic sections.
 
 ---
 
-Surround Commands or Blocks of Code with Backticks /'''.
+Surround Commands or Blocks of Code with Backticks three '''.
 
 ```
 import sys
