@@ -1,5 +1,4 @@
-MY app
-===
+# MY app
 
 With a sub-Heading
 ---
