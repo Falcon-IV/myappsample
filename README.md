@@ -4,12 +4,12 @@ With a sub-Heading
 ---
 
 ***New Paragraph***  
-App sample just *beginning* to learn git and github.  
+App sample just *beginning* to learn git and git-hub.  
 This is set with bold and italic sections.
 
 ---
 
-Surround Commands or Blocks of Code with Backticks three '''.
+Surround Commands or Blocks of Code with three Back-ticks at beginning and end of code.
 
 ```
 import sys
