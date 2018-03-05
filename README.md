@@ -1,9 +1,33 @@
 MY app
 ===
 
-#My app
-
 With a sub-Heading
+---
 
 ***New Paragraph***
-App sample just beginning to learn git and github.
+App sample just *beginning* to learn git and github.
+
+---
+
+Surround Commands or Blocks of Code with Backticks.
+
+```
+import sys
+import platform
+import imp
+
+print('Python EXE       : ', sys.executable)
+print('Architecture     : ', platform.architecture()[0])
+print('Path to testapp  : ', imp.find_module("testapp")[1], '\n')
+
+print('uname:', platform.uname(), '\n')
+
+print('system   :', platform.system())
+print('node     :', platform.node())
+print('release  :', platform.release())
+print('version  :', platform.version())
+print('machine  :', platform.machine())
+print('processor:', platform.processor())
+
+input("\n\nPress ENTER to quit")
+```
