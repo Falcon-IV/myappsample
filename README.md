@@ -84,3 +84,8 @@ be parsed into a single blockquote element.</p></blockquote>
 * An item in a bulleted (unordered) list
     * A subitem, indented with 4 spaces
 * Another item in a bulleted list
+---
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
