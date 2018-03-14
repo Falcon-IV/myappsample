@@ -61,10 +61,12 @@ Another Sub-Heading to Consider.
 **About This**
 Altering the Readme file to include other important suggestion or additions  
 to the project.
+
+* ONE
+* TWO
+* Three
+
+
 1. Add 1 test
 2. Add 2 test
 3. Add 3 test
-
-+ ONE
-+ TWO
-+ Three
