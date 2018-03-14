@@ -58,15 +58,29 @@ Another Sub-Heading to Consider.
 ### Another Sub-Sub-Heading
 ---
 
-**About This**
+**About This**  
 Altering the Readme file to include other important suggestion or additions  
 to the project.
+
+*emphasis* or _emphasis_ (more common)  (e.g., italics)  
+
+**strong emphasis** (more common) or __strong emphasis__ (e.g., boldface)
 
 * ONE
 * TWO
 * Three
 
 
-1. Add 1 test
+1. Add 1 test  
+    A. subitem in ordered list.
 2. Add 2 test
 3. Add 3 test
+---
+
+<blockquote><p>This text will be enclosed in an HTML blockquote element. Blockquote
+elements are reflowable. You may arbitrarily wrap the text to your liking, and it will all
+be parsed into a single blockquote element.</p></blockquote>
+
+* An item in a bulleted (unordered) list
+    * A subitem, indented with 4 spaces
+* Another item in a bulleted list
